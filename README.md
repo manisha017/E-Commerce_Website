@@ -1,7 +1,7 @@
-E-Commerce_Website
+E-Commerce_Website  
 
 
-To use this application, 
+To use this application --> 
 
 1. make dev.js file inside config folder 
 2. put mongoDB info into dev.js file 
