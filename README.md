@@ -3,5 +3,5 @@ E-Commerce Website
 To use this application follow the steps -->                                
 1. Make dev.js file inside config folder                   
 2. Put mongoDB info into dvnev.js bb  file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
+3. Type  " npm installchb " inside the root directory  ( Download Server Dependencies ) 
 4. Type " npm install " inside the client directory ( Download Front-end Dependencies ) 
