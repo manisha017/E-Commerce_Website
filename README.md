@@ -1,6 +1,6 @@
 E-Commerce Website                  
                                                                                                                                
-To use this application follow the steps -->                                                                                                      
+To use this application follow the steps -->                                                                                                                                                                                                              
 1. Make dev.js file inside config folder                                                             
 2. Put mongoDB info into dev.js file                              
 3. Type  " npm instal" inside the root directory  ( Download Server Dependencies ) 
