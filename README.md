@@ -1,5 +1,6 @@
-E-Commerce Website                                                                                           
-                                                                                                                                        
+E-Commerce Website                          
+
+
 To use this application follow the steps -->                                                                                                                                        
 
 1. Make dev.js file inside config folder                                                             
