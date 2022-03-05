@@ -5,7 +5,7 @@ To use this application follow the steps -->
 2. Put mongoDB info into dev.js file                              
 3. Type  " npm instal" inside the root directory  ( Download Server Dependencies ) 
 4. Type " npm install" inside the client directory ( Download Front-end Dependencies ) 
-                      
+                           
 
 
 
