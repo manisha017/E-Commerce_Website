@@ -1,11 +1,3 @@
 # E-Commerce_Website
 
 
-
-
-
-
-
-
-
-
