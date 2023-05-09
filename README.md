@@ -1,9 +1,2 @@
 # E-Commerce_Website
 
-
-]
-
-
-
-
-
